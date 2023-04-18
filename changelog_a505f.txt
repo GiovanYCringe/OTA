@@ -5,4 +5,8 @@ Device maintainer: GiovanYCringe
 
 ===== 18-04-2023 =====
 
+- Fix cts
+
+===== 18-04-2023 =====
+
 - Ota UnOfficial
