@@ -1,1 +1,28 @@
-
+{
+  "response": [
+    {
+        "maintainer": "GiovanYCringe",
+        "oem": "Samsung",
+        "device": "Galaxy A50",
+        "filename": "crDroidAndroid-13.0-20230418-a505f-v9.4.zip",
+        "download": "https://github.com/GiovanYCringe/OTA/releases/download/18042023/crDroidAndroid-13.0-20230418-a505f-v9.4.zip",
+        "timestamp": "1681791129",
+        "md5": "5dece94e3e4aef33958a91b5f5c2aa21",
+        "sha256": "3e25925a8d07896864684e055dfa69791cd67c9009ba33cd15d28119c62abfdd",
+        "size": "872361275",
+        "version": "9.4",
+        "buildtype": "Weekly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "https://github.com/GiovanYCringe/",
+        "common-dt": "https://github.com/GiovanYCringe/",
+        "kernel": "https://github.com/GiovanYCringe/"
+    }
+  ]
+}

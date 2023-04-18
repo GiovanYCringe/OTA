@@ -1,1 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy A50 (a505f)
+Device maintainer: GiovanYCringe
 
+===== 18-04-2023 =====
+
+- Ota UnOfficial
