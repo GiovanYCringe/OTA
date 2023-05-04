@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Samsung Galaxy A50 (a505f)
 Device maintainer: GiovanYCringe
 
+===== 04-05-2023 =====
+
+- Ajust padding
+- solve some denials
+
 ===== 18-04-2023 =====
 
 - Fix cts

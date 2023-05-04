@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "GiovanYCringe",
-        "oem": "Samsung",
-        "device": "Galaxy A50",
-        "filename": "crDroidAndroid-13.0-20230418-a505f-v9.4.zip",
-        "download": "https://github.com/GiovanYCringe/OTA/releases/download/v2/crDroidAndroid-13.0-20230418-a505f-v9.4.zip",
-        "timestamp": "1681793972",
-        "md5": "6408522aa4a816c1206926eac7f90177",
-        "sha256": "2cce2233fbf16a0c185502df1e9eada66eb7bc1931d2224905e5d6d80bf25cd7",
-        "size": "872379481",
-        "version": "9.4",
-        "buildtype": "Weekly",
-        "forum": "",
-        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "",
-        "dt": "https://github.com/GiovanYCringe/",
-        "common-dt": "https://github.com/GiovanYCringe/",
-        "kernel": "https://github.com/GiovanYCringe/"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "GiovanYCringe",
+			"oem": "Samsung",
+			"device": "Galaxy A50",
+			"filename": "crDroidAndroid-13.0-20230504-a505f-v9.4.zip",
+			"download": "https://github.com/GiovanYCringe/OTA/releases/download/v3/crDroidAndroid-13.0-20230504-a505f-v9.4.zip",
+			"timestamp": 1683168429,
+			"md5": "eb2be2bcae408493a27530d7402bbf14",
+			"sha256": "4afaeb658570f558d6cc6f22fde9c17716bf26f9adeb638bb5064e18692cfb66",
+			"size": 872327008,
+			"version": "9.4",
+			"buildtype": "Weekly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/GiovanYCringe/",
+			"common-dt": "https://github.com/GiovanYCringe/",
+			"kernel": "https://github.com/GiovanYCringe/"
+		}
+	]
 }
