@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Samsung Galaxy A50 (a505f)
 Device maintainer: GiovanYCringe
 
+===== 06-05-2023 =====
+
+- Upstream kernel 4.14.142
+- Fixed vibration
+- Bump CrDroid 9.5
+
+
 ===== 04-05-2023 =====
 
 - Ajust padding

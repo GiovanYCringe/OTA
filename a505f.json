@@ -3,26 +3,26 @@
 		{
 			"maintainer": "GiovanYCringe",
 			"oem": "Samsung",
-			"device": "Galaxy A50",
-			"filename": "crDroidAndroid-13.0-20230504-a505f-v9.4.zip",
-			"download": "https://github.com/GiovanYCringe/OTA/releases/download/v3/crDroidAndroid-13.0-20230504-a505f-v9.4.zip",
-			"timestamp": 1683168429,
-			"md5": "eb2be2bcae408493a27530d7402bbf14",
-			"sha256": "4afaeb658570f558d6cc6f22fde9c17716bf26f9adeb638bb5064e18692cfb66",
-			"size": 872327008,
-			"version": "9.4",
+			"device": "a505f",
+			"filename": "crDroidAndroid-13.0-20230506-a505f-v9.5.zip",
+			"download": "https://github.com/GiovanYCringe/OTA/releases/download/v4/crDroidAndroid-13.0-20230506-a505f-v9.5.zip",
+			"timestamp": 1683342850,
+			"md5": "c09694d90f3890eb46d3f8869f87d4e4",
+			"sha256": "2baebb04e70ade155c82505977248241e56f7a629d99ee9568df0684ad80360e",
+			"size": 868660149,
+			"version": "9.5",
 			"buildtype": "Weekly",
 			"forum": "",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
+			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
 			"telegram": "",
-			"dt": "https://github.com/GiovanYCringe/",
-			"common-dt": "https://github.com/GiovanYCringe/",
-			"kernel": "https://github.com/GiovanYCringe/"
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
